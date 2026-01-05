@@ -1,7 +1,9 @@
 # Scientific Question: Which genes show differential expression between Condition A and Condition B?
 
-- **Data Description** - RNA-seq count matrix - Samples collected under
-two experimental conditions - No time-to-event component
+- **Data Description**
+    - RNA-seq count matrix 
+    - Samples collected under two experimental conditions
+    - No time-to-event component
 
 - **Preprocessing Steps**
   - Removal of low-count genes
