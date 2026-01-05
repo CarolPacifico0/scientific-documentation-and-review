@@ -4,10 +4,10 @@
 - Data exclusions justified
 - Decisions documented and reproducible
 
- **Risks Identified** 
+ ## **Risks Identified** 
    - Potential over-cleaning
   - Loss of rare but biologically relevant patterns
 
-**Mitigation**  
+## **Mitigation**  
   - Maintain raw data archive
  - Document all transformations
