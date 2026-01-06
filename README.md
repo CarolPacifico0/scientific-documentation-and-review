@@ -70,4 +70,4 @@ Well... sensitive topic here.
 
 AI can dramatically accelerate analytical tasks, assist with pattern recognition, and support exploratory analyses. However, speed without understanding is dangerous. **If the analyst does not clearly understand the underlying data, the assumptions of the methods, and the scientific context, then AI-assisted analysis becomes a shot in the dark**. 
 
-I am sharing what has worked for me, with the hope that it may help others build analyses that are not only faster, but also sound, interpretable, and scientifically rigorous.
+I am sharing what has worked for me, with the hope that it may help others build analyses faster, interpretable, and scientifically rigorous.
